@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="CollectivAI Logo" width="260">
+  <img src="logo.png" alt="CollectivAI Logo" width="340">
 </p>
 
 <h1 align="center">David Miecznikowski – About Founder</h1>
