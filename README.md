@@ -3,7 +3,7 @@
   <img src="logo.png" alt="CollectivAI Logo" width="340">
 </p>
 
-<h1 align="center">CollectivAI Portfolio – David Miecznikowski</h1>
+<h1 align="center">David Miecznikowski</h1>
 <p align="center">
   Field Service Engineer → IT, Cybersecurity & AI Infrastructure
 </p>
