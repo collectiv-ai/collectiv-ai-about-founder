@@ -2,7 +2,7 @@
   <img src="logo.png" alt="CollectivAI Logo" width="260">
 </p>
 
-<h1 align="center">David Miecznikowski – About & Portfolio</h1>
+<h1 align="center">David Miecznikowski – About Founder</h1>
 <p align="center">
   Field Service Engineer → IT, Cybersecurity & AI Infrastructure
 </p>
