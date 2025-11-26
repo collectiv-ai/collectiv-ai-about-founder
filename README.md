@@ -176,7 +176,7 @@ My CV (PDF) can be provided on request or via direct link (once hosted).
 
 ## 7. Contact
 
-- 📍 based in Germany · open to work across Europe  
+- 📍 open to work across Europe  
 - ✉️ E-mail: **info@collectivai.org**  
 - 🐙 GitHub: **https://github.com/collectiv-ai**  
 - 🌐 Website: **https://collectivai.org**
