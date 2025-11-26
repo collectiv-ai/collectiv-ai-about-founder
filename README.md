@@ -1,4 +1,4 @@
-# CollectivAI – About the Founder
+# David Miecznikowski – About Founder
 
 Welcome to the CollectivAI founder & portfolio repository.
 
