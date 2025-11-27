@@ -47,3 +47,11 @@ All scripts are **read-only** and designed for my **own systems and lab environm
 - 🐙 GitHub organisation: **https://github.com/collectiv-ai**  
 - 🌐 Website: **https://collectivai.org**  
 - ✉️ Contact: **info@collectivai.org**
+
+- ---
+
+### 🔗 Related Repositories
+
+- 🌐 Main website & public docs: [collectiv-ai.github.io](https://github.com/collectiv-ai/collectiv-ai.github.io)
+- 👤 Founder profile & lab: [collectiv-ai-about-founder](https://github.com/collectiv-ai/collectiv-ai-about-founder)
+- 🤝 Sponsors & partners: [collectiv-ai-sponsors](https://github.com/collectiv-ai/collectiv-ai-sponsors)
