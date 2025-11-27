@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Optional: add your logo file to this repo and adjust the filename -->
-  <img src="logo.png" alt="CollectivAI Logo" width="340">
+  <img src="logo.png" alt="CollectivAI Logo" width="400">
 </p>
 
 <h1 align="center">David Miecznikowski</h1>
