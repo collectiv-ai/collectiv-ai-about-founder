@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="CollectivAI Logo" width="400">
+  <img src="logo.png" alt="CollectiVAI Logo" width="400">
 </p>
 
 <h1 align="center">David Miecznikowski – About Founder</h1>
@@ -9,7 +9,7 @@
 
 ---
 
-> This repository is my main **founder & portfolio hub** for CollectivAI –  
+> This repository is my main **founder & portfolio hub** for CollectiVAI –  
 > connecting over 20 years of industrial field service with IT, cybersecurity & AI infrastructure.
 
 ---
@@ -28,7 +28,7 @@
   - Transition into **IT, cybersecurity & AI infrastructure**  
   - Target roles: Junior IT System Engineer, (Junior) Cybersecurity Engineer, Technical Field Engineer
 
-- 🧪 **CollectivAI Lab**  
+- 🧪 **CollectiVAI Lab**  
   - macOS M2 Max as central workstation  
   - Kali Linux, Parrot OS, Ubuntu (UTM VMs)  
   - WiFi & network lab, automation, local AI models
