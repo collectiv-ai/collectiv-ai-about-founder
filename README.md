@@ -59,7 +59,7 @@
     - **2× Hackberry CM5 (16 GB RAM + NVMe + eMMC)**  
       - one focused on **Red Team / Kali**  
       - one focused on **Blue Team / Parrot / monitoring**  
-    - NVIDIA Jetson AGX Orin (for future AI+crypto nodes)  
+    - NVIDIA Thor (for future AI+crypto nodes)  
     - WiFi Pineapple MK7 Tactical, Alfa WiFi adapters, SDR & network gadgets
 
   - **AI stack (local & hybrid)**  
