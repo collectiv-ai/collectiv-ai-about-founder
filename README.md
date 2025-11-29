@@ -46,7 +46,7 @@
   A real, self-built lab that powers the CollectiVAI project:
 
   - **Core workstation (Blue Team / AI hub)**  
-    - MacBook Pro 16" with **Apple M2 Max**, 64 GB RAM, 2 TB SSD  
+    - MacBook Pro 16" with **Apple M2 Max**, 64 GB RAM, 2 TB SSD, 12 CPU, 38 GPU 
     - macOS as central **AI, security & blockchain control plane**  
     - SwiftBar-based live monitoring (AI, nodes, security, DNS, VPN, Tor)
 
