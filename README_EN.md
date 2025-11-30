@@ -1,182 +1,170 @@
 <p align="center">
-  <!-- Optional: add your logo file to this repo and adjust the filename -->
-  <img src="logo.png" alt="CollectivAI Logo" width="400">
+  <img src="logo.png" alt="CollectiVAI Logo" width="400">
 </p>
 
 <h1 align="center">David Compasso</h1>
+<h3 align="center">Field Service Engineer → IT, Cybersecurity & AI Infrastructure</h3>
+
 <p align="center">
-  Field Service Engineer → IT, Cybersecurity & AI Infrastructure
+  <a href="https://collectivai.org">
+    <img src="https://img.shields.io/badge/Website-collectivai.org-003399?style=flat" alt="Website" />
+  </a>
+  <a href="https://github.com/collectiv-ai">
+    <img src="https://img.shields.io/badge/GitHub-collectiv--ai-ffcc00?style=flat" alt="GitHub Org" />
+  </a>
+  <img src="https://img.shields.io/badge/Made%20in-Europe-003399?style=flat" alt="Made in Europe" />
 </p>
 
 ---
 
-> From over 20 years in industrial engineering to IT, cybersecurity and AI infrastructure.
+> This repository is my main **founder & portfolio hub** for CollectiVAI –  
+> connecting 20+ years of industrial field service with IT, cybersecurity,  
+> blockchain infrastructure and democratic AI for Europe.
 
 ---
 
 ## 1. Profile
 
-My name is **David Miecznikowski**, I am 41 years old and I bring **over 20 years of hands-on industrial experience** – from:
+My name is **David Compasso**, I’m 41 years old and bring **20+ years of real industrial experience** from:
 
 - mechanical engineering  
 - special-purpose machine building  
-- maintenance & repair of complex systems  
+- maintenance and repair of complex systems  
 - 24/7 on-call duty in production-critical environments  
-- up to working as a **Field Service Engineer** in the semiconductor industry
+- working as a **Field Service Engineer** in the semiconductor industry  
 
-My field assignments and customers included, among others:
+Key customers and environments included:
 
 - **Krones AG**  
 - **Infineon**  
 - **Bosch**  
 
-This background shaped the way I work: structured, reliable, calm under pressure and always close to the real system.
+This background shaped how I work: structured, reliable, calm under pressure – always close to the real system.
 
-Today I am deliberately transitioning into **IT, cybersecurity and AI-driven infrastructure**, building on:
+Today I am deliberately shifting my focus towards **IT, cybersecurity, AI-driven infrastructure and blockchain ecosystems** – based on a self-built lab and fully documented setups on GitHub under the **CollectiVAI** umbrella.
 
-- my industrial field experience  
-- a self-built macOS & Linux lab  
-- and transparent, documented scripts and setups here on GitHub
+I’m looking for roles such as:
 
-I am looking for roles such as:
-
-- **Junior IT System Engineer**  
+- **(Junior) IT System Engineer**  
 - **(Junior) Cybersecurity Engineer**  
-- **Technical Field Engineer (IT / Infrastructure / Semiconductor)**  
-
-where I can combine **field service + IT & security + lab practice**.
+- **Technical Field Engineer (IT / infrastructure / semiconductor)**  
+- Roles at the intersection of **AI, nodes, infrastructure & security**
 
 ---
 
-## 2. From Industry to IT & Cybersecurity
+## 2. From Industry to IT, Security & AI
 
-I combine two worlds:
+I connect two worlds:
 
-1. **Industry & Semiconductor Experience**
-   - installation, commissioning and maintenance of complex vacuum pump systems  
-   - troubleshooting under time pressure in cleanroom & high-availability environments  
-   - shift work and 24/7 on-call duty  
-   - direct, hands-on work at customer sites (Krones, Infineon, Bosch)
+1. **Industrial & semiconductor experience**
+   - Installation, commissioning and maintenance of complex vacuum and production systems  
+   - Troubleshooting under time pressure in cleanroom and high-availability environments  
+   - Shift work and 24/7 on-call duty  
+   - hands-on work directly on customer sites (Krones, Infineon, Bosch)
 
-2. **IT, Security & Automation (self-built lab)**
-   - **macOS M2 Max** as central workstation  
-   - multiple **Linux VMs** (Kali Linux “Large”, Parrot OS, Ubuntu) via **UTM**  
-   - WiFi & network lab (e.g. WiFi Pineapple, Alfa adapters, 4G/5G dongles)  
-   - Shell scripting (bash/zsh) for system & security checks  
-   - first **Python** steps for tools and automation  
-   - experiments with **local AI models** (e.g. via Ollama) for system/log analysis
+2. **IT, security, AI & automation (self-built lab)**
+   - **macOS M2 Max** as central workstation and control plane  
+   - multiple **Linux VMs** (Kali, Parrot, Ubuntu Server) via **UTM**  
+   - WiFi & network lab (WiFi Pineapple MK7 Tactical, Alfa adapters, 4G/5G dongles)  
+   - shell scripting (zsh/bash) for system, security and node checks  
+   - **Python** and Web3 tooling for automation and blockchain interaction  
+   - experiments with **local AI models, agents and bots**  
+   - strong focus on **privacy, Tor, VPN, DNS-over-Tor** and distributed crypto/AI infrastructure
 
 ---
 
 ## 3. Lab & Tech Stack
 
-### 3.1 Lab overview
+### 3.1 Core Lab
 
-- **macOS M2 Max** as central workstation (CollectivAI base system)
-- Multiple **Linux VMs** via **UTM**:
-  - Kali Linux “Large”
-  - Parrot OS
-  - Ubuntu Server (e.g. for nodes / services)
-- **Network & WiFi lab**:
-  - WiFi Pineapple Tactical (lab only)
-  - WiFi adapters
-  - 4G/5G dongles
-- **Automation & scripting**:
-  - Shell (bash/zsh) for system & security checks
-  - first Python steps for tooling and automation
-- **AI experiments**:
-  - local models via Ollama
-  - idea: use AI to support system and log analysis
+- **Main system (Blue Team / AI hub)**  
+  - MacBook Pro 16" with **Apple M2 Max**, 64 GB RAM, 2 TB SSD  
+  - macOS as central platform for:
+    - local AI (Ollama, PrivateGPT, agent frameworks)  
+    - security monitoring & SwiftBar dashboards  
+    - blockchain nodes (Bitcoin, Ethereum, Bittensor)
 
-### 3.2 Focus areas
+- **Virtualisation (UTM)**  
+  - **Kali Linux 2025.1 ARM64** – Red Team, pentesting, wireless & network lab  
+  - **Parrot OS** – Blue Team / defensive security  
+  - **Ubuntu 22.04 LTS** – Bittensor (TAO) node and other backend services
 
-- **IT & Security**
-  - Linux administration in lab environments (Kali, Parrot, Ubuntu)
-  - basic network and WiFi analysis in controlled setups
-  - awareness for privacy, compliance and responsible security testing
+- **Edge & embedded hardware**  
+  - **2× Hackberry CM5** (16 GB RAM + NVMe + eMMC each)  
+    - 1× Red-Team focus (Kali, wireless, payload lab)  
+    - 1× Blue-Team focus (Parrot, monitoring, defensive tools)  
+  - WiFi Pineapple MK7 Tactical, Alfa WiFi adapters, SDR hardware
 
-- **Infrastructure thinking**
-  - high availability mindset from semiconductor background
-  - “keep the system running” attitude
-  - focus on uptime, stability and clear documentation
+### 3.2 AI & Agents
 
-### 3.3 Key skills (summary)
+- **Ollama model zoo** (LLaMA-family, Mistral, Phi, code models, embeddings, etc.)  
+- **PrivateGPT** and other local retrieval / knowledge tools  
+- early setups with **agent frameworks** (e.g. AutoGen, CrewAI, others)  
+- design and experiments for a **CollectiVAI Router**:
+  - multi-provider routing (OpenAI, Gemini, Mistral, local models)  
+  - with a dedicated **ethics & privacy layer**
 
-- Industrial field service (semiconductor, vacuum systems, cleanroom)
-- Linux in lab environments (Kali, Parrot, Ubuntu)
-- macOS M2 Max as main platform
-- Shell scripting for checks & automation
-- Basic Python for tooling
-- Strong hands-on mindset and calm troubleshooting
+### 3.3 Security & Privacy
 
----
+- **Tor** (incl. bridges / obfs4)  
+- **VPN** (e.g. Mullvad)  
+- **DNS-over-Tor** via `dnscrypt-proxy`  
+- dedicated shell toolkits for:
+  - system checks (macOS & Linux)  
+  - firewall state & leak checks  
+  - monitoring AI services, nodes and network paths
 
-## 4. Projects on GitHub
+### 3.4 Blockchain, Smart Contracts & DeFi
 
-This portfolio repository links to projects that are relevant for recruiters, teams and partners.
-
-### 4.1 `security-scripts`
-
-Repository with **clean, well-documented shell scripts** for:
-
-- `macos-system-security-check.sh`  
-  → overview of security-relevant settings on macOS (FileVault, firewall, Gatekeeper, etc.)
-
-- `linux-basic-security-check.sh`  
-  → basic security check for Linux (OS info, firewall, SSH config, failed logins)
-
-- `network-quickcheck.sh`  
-  → safe network quickcheck (interfaces, routes, DNS snippet, ping tests)
-
-All scripts are designed for **my own systems and lab setups only** and show how I structure security and system checks.
-
-> Repo: `https://github.com/collectiv-ai/security-scripts`
+- **Bitcoin Core full node** on macOS  
+- **Lightning** experiments (LND / CLN)  
+- **Ethereum Geth node** + Web3 tooling (`web3.py`, Solidity / Foundry stack)  
+- **Bittensor (TAO) node** via Ubuntu server  
+- smart contract lab (Solidity, testnets, local chains)  
+- SwiftBar-based **crypto dashboards** for BTC, ETH, TAO and more
 
 ---
 
-### 4.2 CollectivAI & lab (planned / in progress)
+## 4. Projects & Repositories
 
-Planned / upcoming repositories:
+A selection of relevant areas inside the CollectiVAI GitHub organisation:
 
-- **`collectivai-portfolio`**  
-  Portfolio repository collecting:
-  - lab architecture (macOS M2 Max + Linux VMs + hardware)  
-  - notes & scripts around IT, security & automation  
-  - roadmap for future AI & infrastructure projects
+- 🌐 **Main website & public docs**  
+  👉 [`collectiv-ai.github.io`](https://github.com/collectiv-ai/collectiv-ai.github.io)
 
-- **`ai-security-lab`**  
-  - documentation of my macOS + Linux lab  
-  - how I combine AI tools with monitoring & analysis  
+- 📱 **CollectiVAI App (iOS / iPadOS / macOS)**  
+  👉 [`collectiv-ai-app`](https://github.com/collectiv-ai/collectiv-ai-app)
 
-- **`collectivai-diagrams`**  
-  - architecture diagrams of my lab (macOS, VMs, hardware, network paths)  
-  - high-level concepts for human-centered, privacy-preserving AI infrastructure  
+- ⛓ **CollectiVAI Chain (Cosmos App-Chain, governance)**  
+  👉 [`collectiv-ai-app-chain`](https://github.com/collectiv-ai/collectiv-ai-app-chain)
 
----
+- 🎨 **Branding & visual identity**  
+  👉 [`collectiv-ai-branding`](https://github.com/collectiv-ai/collectiv-ai-branding)
 
-## 5. CV & Career
+- 🤝 **Sponsors & partners**  
+  👉 [`collectiv-ai-sponsors`](https://github.com/collectiv-ai/collectiv-ai-sponsors)
 
-- **Background**: Precision Mechanic → Maintenance → Field Service Engineer (semiconductor)  
-- **Current focus**: IT, cybersecurity, AI-aware infrastructure  
-- **Location**: based in Germany, open to work across Europe  
-- **Target roles**: Junior IT System Engineer, Junior Cybersecurity Engineer, Technical Field Engineer (IT / Semiconductor / Infrastructure)
-
-My CV (PDF) can be provided on request or via direct link (once hosted).
+- 👤 **Founder hub & profiles (EN/DE)**  
+  👉 [`collectiv-ai-about-founder`](https://github.com/collectiv-ai/collectiv-ai-about-founder)
 
 ---
 
-## 6. What I bring to a team
+## 5. What I bring to a team
 
-- over 20 years of **real industrial experience** (mechanical engineering, special-purpose machines, maintenance, 24/7 on-call, field service)  
-- a strong **hands-on mindset** and calm problem-solving in critical situations  
-- a running **IT & security lab** with macOS, Linux and network hardware  
-- high motivation to grow in **IT, security and AI-based operations** and to take responsibility
+- **20+ years of real industrial experience**  
+  (mechanical engineering, special-purpose machinery, semiconductor, 24/7 duty, field service)  
+- a strong **hands-on mentality** and calm troubleshooting under pressure  
+- a running **AI, security and blockchain lab** with real nodes and systems  
+- the ability to combine **real operations** (nodes, models, infrastructure) with  
+  **structure, automation and documentation**  
+- high motivation to grow further into **IT, security, AI infrastructure & blockchain**  
+  and to take responsibility in complex technical environments
 
 ---
 
-## 7. Contact
+## 6. Contact
 
-- 📍 open to work across Europe  
+- 📍 Available across Europe  
 - ✉️ E-mail: **info@collectivai.org**  
 - 🐙 GitHub: **https://github.com/collectiv-ai**  
 - 🌐 Website: **https://collectivai.org**
