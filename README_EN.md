@@ -3,7 +3,7 @@
   <img src="logo.png" alt="CollectivAI Logo" width="400">
 </p>
 
-<h1 align="center">David Miecznikowski</h1>
+<h1 align="center">David Compasso</h1>
 <p align="center">
   Field Service Engineer → IT, Cybersecurity & AI Infrastructure
 </p>
