@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="logo.png" alt="CollectiVAI Logo" width="320">
+  <img src="logo.png" alt="CollectiVAI Logo" width="400">
 </p>
 
-<h1 align="center">David Miecznikowski – About Founder</h1>
+<h1 align="center">David Compasso – About Founder</h1>
 <h3 align="center">Founder of CollectiVAI · Democratic AI for Europe</h3>
 
 <p align="center">
