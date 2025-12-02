@@ -46,21 +46,23 @@
   A real, self-built lab that powers the CollectiVAI project:
 
   - **Core workstation (Blue Team / AI hub)**  
-    - MacBook Pro 16" with **Apple M2 Max**, 64 GB RAM, 2 TB SSD, 12 CPU, 38 GPU 
+    - MacBook Pro 16" with **Apple M2 Max**, 64 GB RAM, 2 TB SSD, 12-core CPU, 38-core GPU  
     - macOS as central **AI, security & blockchain control plane**  
-    - SwiftBar-based live monitoring (AI, nodes, security, DNS, VPN, Tor)
+    - SwiftBar-based live monitoring (AI, nodes, security, DNS, VPN, Tor)  
+    - Full ecosystem documented here:  
+      👉 [`collectiv-ai-macbook-pro`](https://github.com/collectiv-ai/collectiv-ai-macbook-pro)
 
   - **Virtualisation & OS stack (UTM)**  
     - **Kali Linux 2025.1 ARM64** – Red Team, pentesting, wireless & network lab  
     - **Ubuntu 22.04 LTS (TAO server)** – Bittensor node(s) & AI/crypto experiments  
     - Parrot OS variants for Blue Team / defensive testing
 
-  - **Edge & embedded hardware**  
+  - **Edge & embedded hardware (Security lab)**  
     - **2× Hackberry CM5 (16 GB RAM + NVMe + eMMC)**  
       - one focused on **Red Team / Kali**  
       - one focused on **Blue Team / Parrot / monitoring**  
-    - NVIDIA Thor (for future AI+crypto nodes)  
-    - WiFi Pineapple MK7 Tactical, Alfa WiFi adapters, SDR & network gadgets
+    - Hak5 WiFi Pineapple MK7 Tactical, Alfa WiFi adapters, SDR & network gadgets  
+    - Planned: NVIDIA Thor / similar hardware for future AI+crypto nodes
 
   - **AI stack (local & hybrid)**  
     - Large local **Ollama model zoo** (LLaMA, Mistral, Phi, Code models, etc.)  
@@ -82,7 +84,8 @@
     - Crypto dashboards & SwiftBar integrations for BTC, ETH, TAO and more
 
 - 🛠 **Example security / system / blockchain scripts (Shell)**  
-  *(Most are documented in separate repos, this repo links and describes them.)*  
+  *(Most are documented in separate repos; this repo links and describes them.)*  
+
   - macOS system & security checks  
   - Linux baseline security checks  
   - network quick checks & leak tests  
@@ -117,16 +120,19 @@ Instead of slideware, the focus is on **running systems, nodes and tools**.
 ### 🔗 Related repositories
 
 - 🌐 Main website & public docs:  
-  [collectiv-ai.github.io](https://github.com/collectiv-ai/collectiv-ai.github.io)
+  [`collectiv-ai.github.io`](https://github.com/collectiv-ai/collectiv-ai.github.io)
 
 - 📱 CollectiVAI App (iOS / iPadOS / macOS):  
-  [collectiv-ai-app](https://github.com/collectiv-ai/collectiv-ai-app)
+  [`collectiv-ai-app`](https://github.com/collectiv-ai/collectiv-ai-app)
 
 - ⛓ CollectiVAI Chain (Cosmos App-Chain):  
-  [collectiv-ai-app-chain](https://github.com/collectiv-ai/collectiv-ai-app-chain)
+  [`collectiv-ai-app-chain`](https://github.com/collectiv-ai/collectiv-ai-app-chain)
+
+- 🖥 macOS M2 Max Ecosystem (Lab & Control Center):  
+  [`collectiv-ai-macbook-pro`](https://github.com/collectiv-ai/collectiv-ai-macbook-pro)
 
 - 🤝 Sponsors & partners:  
-  [collectiv-ai-sponsors](https://github.com/collectiv-ai/collectiv-ai-sponsors)
+  [`collectiv-ai-sponsors`](https://github.com/collectiv-ai/collectiv-ai-sponsors)
 
 - 🧭 Business plan & strategy:  
-  [collectiv-ai-business](https://github.com/collectiv-ai/collectiv-ai-business)
+  [`collectiv-ai-business`](https://github.com/collectiv-ai/collectiv-ai-business)
