@@ -128,7 +128,7 @@ Instead of slideware, the focus is on **running systems, nodes and tools**.
 - ⛓ CollectiVAI Chain (Cosmos App-Chain):  
   [`collectiv-ai-app-chain`](https://github.com/collectiv-ai/collectiv-ai-app-chain)
 
-- 🖥 macOS M2 Max Ecosystem (Lab & Control Center):  
+- 🖥 macOS MacBook Pro Ecosystem (Lab & Control Center):  
   [`collectiv-ai-macbook-pro`](https://github.com/collectiv-ai/collectiv-ai-macbook-pro)
 
 - 🤝 Sponsors & partners:  
